@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "bootstrap": "^5.3.2",
+    "bootswatch": "^5.3.2",
+    "dropzone": "^6.0.0-beta.2",
+    "jquery": "^3.7.1",
+    "jquery-form": "^4.3.0",
+    "jquery-lazyload": "^1.9.7",
+    "jquery-match-height": "^0.7.2",
+    "select2": "^4.1.0-rc.0",
+    "signature_pad": "^4.1.7",
+    "toastr": "^2.1.4",
+    "urijs": "^1.19.11"
+  }
+}
