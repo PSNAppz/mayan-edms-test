@@ -152,6 +152,7 @@ INSTALLED_APPS = (
     "mayan.apps.sources",
     "mayan.apps.tags",
     "mayan.apps.web_links",
+    "mayan.apps.folders",  # Bonus App
     # Placed after rest_api to allow template overriding.
     "drf_yasg",
 )
